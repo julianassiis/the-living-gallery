@@ -8,7 +8,4 @@ A projeção é representada através de um padrão gráfico composto por círcu
 
 Este projeto pretende representar uma exploração da interligação entre o humano, a arte e a tecnologia através da monitorização da presença humana no teto, criando uma obra imersiva no contexto de uma galeria de arte.
 
-Autores:
-André Domingues
-Juliana Assis
-Simão Pereira
+Autores: André Domingues, Juliana Assis, Simão Pereira
